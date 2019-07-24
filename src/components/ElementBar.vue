@@ -16,15 +16,15 @@
                     <font-awesome-icon icon="heading" />
                     <h5>HEADLINE</h5>
                 </div>
-                <div class="element-card" @click="elemNum(2)">
+                <div class="element-card" @click="">
                     <font-awesome-icon icon="font" />
                     <h5>SUB-HEADLINE</h5>
                 </div>
-                <div class="element-card" @click="elemNum(3)">
+                <div class="element-card" @click="">
                     <font-awesome-icon icon="paragraph" />
                     <h5>PARAGRAPH</h5>
                 </div>
-                <div class="element-card" @click="elemNum(4)">
+                <div class="element-card" @click="">
                     <font-awesome-icon icon="list" />
                     <h5>BULLET LIST</h5>
                 </div>
@@ -37,15 +37,15 @@
                     <font-awesome-icon icon="image" />
                     <h5>IMAGE</h5>
                 </div>
-                <div class="element-card" @click="elemNum(6)">
+                <div class="element-card" @click="">
                     <font-awesome-icon icon="images" />
                     <h5>IMAGE-POPUP</h5>
                 </div>
-                <div class="element-card" @click="elemNum(7)">
+                <div class="element-card" @click="">
                     <font-awesome-icon icon="play-circle" />
                     <h5>VIDEO</h5>
                 </div>
-                <div class="element-card" @click="elemNum(8)">
+                <div class="element-card" @click="">
                     <font-awesome-icon icon="play-circle" />
                     <h5>VIDEO-POPUP</h5>
                 </div>
